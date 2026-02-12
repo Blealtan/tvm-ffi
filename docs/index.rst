@@ -86,4 +86,6 @@ Table of Contents
    :caption: Developer Manual
 
    dev/build_from_source.md
+   dev/tvm_ffi_cpp_native_design.md
+   dev/tvm_ffi_rust_binding_design.md
    dev/release_process.rst
